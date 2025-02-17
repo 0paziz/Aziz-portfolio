@@ -2,11 +2,14 @@
 
 its simple portofolio inspired by Dopefolio which is an Open-Source project which is a simple and clean multi-page portfolio website template for developers
 
-## Installation
+## LiveSite 
 
-Steps to install and set up your project locally.
+abdiaziz-portfolio: (https://abdiaziz-portfolio.netlify.app/)
 
-```bash
-git clone https://github.com/0paziz/Aziz-portfolio.git
-cd your-repository
-npm install
+## Screenshots
+
+![DesktopView](https://github.com/user-attachments/assets/4ebc1a1a-e0c9-48ee-b7ba-e0ca6de343b9)
+
+
+
+
